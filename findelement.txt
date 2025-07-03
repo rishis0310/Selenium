@@ -1,0 +1,2 @@
+the findElement() method is used to locate a single web element on a page based on a specified locator strategy
+It's commonly found in applications, websites, and forms, enabling users to enter text-based information. Essentially, it's a designated space where users can type, edit, and interact with text. 
