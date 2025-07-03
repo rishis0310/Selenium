@@ -1,0 +1,1 @@
+A text box is a graphical user interface element that allows users to input and display text within a defined rectangular area.
